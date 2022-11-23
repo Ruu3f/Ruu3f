@@ -9,13 +9,13 @@
 <p align='left'>
 I am a developer that knows many languages, they are listed below:
 <br>
-<a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="18px" height="18px" alt="HTML"></a> HTML - Good (Can do easily without any problems)
+<a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="18px" height="18px" alt="HyperText Markup Language"></a> HTML
 <br>
-<a href="https://emoji.gg/emoji/8517-css"><img src="https://cdn3.emoji.gg/emojis/8517-css.png" width="18px" height="18px" alt="css"></a> CSS - Decent (Can code but not good at it)
+<a href="https://emoji.gg/emoji/8517-css"><img src="https://cdn3.emoji.gg/emojis/8517-css.png" width="18px" height="18px" alt="Cascading Style Sheets"></a> CSS
 <br>
-<a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="16px" height="16px" alt="Python_Logo"></a> Python - Decent (Can understand but don't know much coding)
+<a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="16px" height="16px" alt="Python"></a> Python
 <br>
-<a href="https://emoji.gg/emoji/2057-javascript-logo"><img src="https://cdn3.emoji.gg/emojis/2057-javascript-logo.png" width="16px" height="16px" alt="JavaScript_Logo"></a> JavaScript - VERY BAD (I am learning it right now xD)
+<a href="https://emoji.gg/emoji/2057-javascript-logo"><img src="https://cdn3.emoji.gg/emojis/2057-javascript-logo.png" width="16px" height="16px" alt="JavaScript"></a> JavaScript
   </body>
 <p align='center'>
 🔥 My Stats 🔥
