@@ -7,7 +7,11 @@
 <head>
 <body>
 <p align='center'>
-   <img src="https://images-ext-1.discordapp.net/external/3khF-0TE_CD-uHA4RRNWdbrpxuAXpnENM9xInp-dI5A/https/media.tenor.com/tP7Xxrv5w5gAAAPo/surgb-_radcollab.mp4">
+I am a developer that knows many languages, they are listed below
+HTML - Good (Can do easily without any problems)
+CSS - Decent (Can code but not good at it)
+<a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="32px" height="32px" alt="Python_Logo"></a> Python - Decent (Can understand but don't know much coding)
+JavaScript - VERY BAD (I am learning it right now xD)
   </body>
 <p align='center'>
 🔥 My Stats 🔥
