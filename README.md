@@ -16,6 +16,7 @@ I am a developer that knows many languages, they are listed below:
 <a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="16px" height="16px" alt="Python"></a> Python
 <br>
 <a href="https://emoji.gg/emoji/2057-javascript-logo"><img src="https://cdn3.emoji.gg/emojis/2057-javascript-logo.png" width="16px" height="16px" alt="JavaScript"></a> JavaScript
+<hr>
   </body>
 <p align='center'>
 🔥 My Stats 🔥
