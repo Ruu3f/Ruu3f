@@ -5,9 +5,10 @@
 
 <html>
 <head>
+<body>
 <p align='center'>
-<img src="https://tenor.com/view/surgb-_radcollab-strandedunicorns-nft-strandedunicorns-rgb-gif-25040584">
-  </p>
+   <img src="https://tutorialspoint.com/images/html.gif" height="200" width="200">
+  </body>
 <p align='center'>
 🔥 My Stats 🔥
   </p>
