@@ -7,10 +7,14 @@
 <head>
 <body>
 <p align='left'>
-I am a developer that knows many languages, they are listed below
+I am a developer that knows many languages, they are listed below:
+<br>
 HTML - Good (Can do easily without any problems)
+<br>
 CSS - Decent (Can code but not good at it)
+<br>
 <a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="16px" height="16px" alt="Python_Logo"></a> Python - Decent (Can understand but don't know much coding)
+<br>
 JavaScript - VERY BAD (I am learning it right now xD)
   </body>
 <p align='center'>
