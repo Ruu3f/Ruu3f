@@ -10,7 +10,7 @@
 I am a developer that knows many languages, they are listed below
 HTML - Good (Can do easily without any problems)
 CSS - Decent (Can code but not good at it)
-<a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="32px" height="32px" alt="Python_Logo"></a> Python - Decent (Can understand but don't know much coding)
+<a href="https://emoji.gg/emoji/1850-python-logo"><img src="https://cdn3.emoji.gg/emojis/1850-python-logo.png" width="16px" height="16px" alt="Python_Logo"></a> Python - Decent (Can understand but don't know much coding)
 JavaScript - VERY BAD (I am learning it right now xD)
   </body>
 <p align='center'>
