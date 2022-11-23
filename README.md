@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 
-![GitHub Snake Light](https://tenor.com/view/surgb-_radcollab-strandedunicorns-nft-strandedunicorns-rgb-gif-25040584)
+
 
 <html>
 <head>
+<p align='center'>
+<img src="https://tenor.com/view/surgb-_radcollab-strandedunicorns-nft-strandedunicorns-rgb-gif-25040584">
+  </p>
 <p align='center'>
 🔥 My Stats 🔥
   </p>
