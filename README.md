@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
-
-
 <html>
 <head>
 <body>
 <p align='left'>
+<hr>
 I am a developer that knows many languages, they are listed below:
 <br>
 <a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="18px" height="18px" alt="HyperText Markup Language"></a> HTML
