@@ -6,7 +6,7 @@
 <html>
 <head>
 <body>
-<p align='center'>
+<p align='left'>
 I am a developer that knows many languages, they are listed below
 HTML - Good (Can do easily without any problems)
 CSS - Decent (Can code but not good at it)
