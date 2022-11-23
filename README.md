@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![GitHub Snake Light](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://tenor.com/view/surgb-_radcollab-strandedunicorns-nft-strandedunicorns-rgb-gif-25040584)
 
 <html>
 <head>
