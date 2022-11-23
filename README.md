@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only
 <!--
 **Ruu3f/Ruu3f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
