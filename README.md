@@ -7,7 +7,7 @@
 <head>
 <body>
 <p align='center'>
-   <img src="https://images-ext-1.discordapp.net/external/3khF-0TE_CD-uHA4RRNWdbrpxuAXpnENM9xInp-dI5A/https/media.tenor.com/tP7Xxrv5w5gAAAPo/surgb-_radcollab.mp4" height="200" width="200">
+   <img src="https://images-ext-1.discordapp.net/external/3khF-0TE_CD-uHA4RRNWdbrpxuAXpnENM9xInp-dI5A/https/media.tenor.com/tP7Xxrv5w5gAAAPo/surgb-_radcollab.mp4">
   </body>
 <p align='center'>
 🔥 My Stats 🔥
