@@ -6,7 +6,9 @@
 
 <html>
 <head>
-  <title> Ruu3f Bio </title>
+<p align='center'>
+🔥 My Stats 🔥
+  </p>
   <body>
   <br>
   <p align='center'>
