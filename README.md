@@ -3,7 +3,8 @@ I am Ruu3f!
 I make discord bots, websites and i have a discord server,
 i also am a picture artist.
 I try to do my best to work in making Discord websites and Pictures but they never get good 😂
-The down section is fully made out of HTML.
+<hr>
+The official full bio website: https://ruu3f.tk.
 <html>
 <head>
 <body>
