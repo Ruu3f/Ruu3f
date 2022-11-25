@@ -4,7 +4,7 @@ I make discord bots, websites and i have a discord server,
 i also am a picture artist.
 I try to do my best to work in making Discord websites and Pictures but they never get good 😂
 <hr>
-My website: https://ruu3f.tk (NOT RELEATED TO ANY OF MY SERVERS)
+My personal website: https://ruu3f.tk
 <html>
 <head>
 <body>
