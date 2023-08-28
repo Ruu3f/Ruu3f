@@ -8,7 +8,7 @@ I'm a full-stack developer with a passion for open-source projects. If you have 
 
 ### Skills:
 
-![SkillIcons](https://skillicons.dev/icons?i=py,js,html,css,git,bots,regex,github,vscode,discord,sqlite)
+![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,git,github,regex,bots,aws,mongodb,sqlite)
 
 ---
 
